@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatema Baig</h1>
-<h3 align="center">Full‑Stack Developer | MERN | Java & Python Enthusiast</h3>
+<h3 align="center">Full‑Stack Developer | MERN | Java </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fatemabaig&label=Profile%20views&color=0e75b6&style=flat" alt="fatemabaig" />
@@ -10,7 +10,7 @@
 ### 🌱 About Me
 - 🎓 Third-year Computer Science Engineering student (CSE'26)  
 - 🔧 Passionate about **Full‑Stack Web Development** using **MERN Stack**  
-- 💻 Skilled in **Java (DSA)** and **Python** for algorithmic problem-solving  
+- 💻 Skilled in **Java (DSA)** and algorithmic problem-solving  
 - 🚀 Completed internship in Web Development at **Owntap Consultancy Services Pvt. Ltd.**
 
 ---
@@ -45,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Status 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fatemabaig&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatemabaig&theme=radical" alt="GitHub Streak" />
