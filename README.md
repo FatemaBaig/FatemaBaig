@@ -65,7 +65,7 @@ Aspiring MERN Stack Developer | Java | Web Development Enthusiast
 ## 💡 Quote
 
 <p align="center">
-  <i>"Strive not to be a success, but rather to be of value." – Albert Einstein</i>
+  <i>"Strive not to be a success, but rather to be of value." – Albert Einstein.</i>
 </p>
 
 ---
