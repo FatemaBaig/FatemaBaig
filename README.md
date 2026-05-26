@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring MERN Stack Developer | Java | Web Development Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fatemabaig&label=Profile%20views&color=0e75b6&style=flat" alt="fatemabaig" />
+  <img src="https://komarev.com/ghpvc/?username=FatemaBaig&label=Profile%20views&color=0e75b6&style=flat" alt="FatemaBaig" />
 </p>
 
 ---
@@ -46,10 +46,13 @@
 
 ---
 
-### 📊 GitHub Status 
+### 📊 GitHub Status
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatemabaig&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatemabaig&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FatemaBaig&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatemaBaig&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
