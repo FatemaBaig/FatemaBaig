@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatema Baig</h1>
-<h3 align="center">Full‑Stack Developer | MERN | Java </h3>
+<h3 align="center">Aspiring MERN Stack Developer | Java | Web Development Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fatemabaig&label=Profile%20views&color=0e75b6&style=flat" alt="fatemabaig" />
@@ -8,15 +8,16 @@
 ---
 
 ### 🌱 About Me
-- 🎓 Third-year Computer Science Engineering student (CSE'26)  
-- 🔧 Passionate about **Full‑Stack Web Development** using **MERN Stack**  
-- 💻 Skilled in **Java (DSA)** and algorithmic problem-solving  
+- 🎓 B.Tech Final Year Computer Science Engineering Student (CSE'26)  
+- 🔧 Aspiring **MERN Stack Developer** passionate about building full-stack web applications  
+- 💻 Skilled in **Java (DSA)** and problem-solving  
+- 🌐 Web Development Enthusiast with interest in modern technologies  
 - 🚀 Completed internship in Web Development at **Owntap Consultancy Services Pvt. Ltd.**
 
 ---
 
 ### 📫 How to Reach Me
-- ✉️ Email: **[baigamenafatemabaig@gmail.com](mailto:fatemabaig28@gmail.com)**  
+- ✉️ Email: **[fatemabaig28@gmail.com](mailto:fatemabaig28@gmail.com)**  
 - 💼 LinkedIn: [linkedin.com/in/fatema-baig-246b46221](https://www.linkedin.com/in/fatema-baig-246b46221)
 
 ---
