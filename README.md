@@ -16,7 +16,7 @@
 ---
 
 ### 📫 How to Reach Me
-- ✉️ Email: **[baigamenafatemabaig@gmail.com](mailto:baigamenafatemabaig@gmail.com)**  
+- ✉️ Email: **[baigamenafatemabaig@gmail.com](mailto:fatemabaig28@gmail.com)**  
 - 💼 LinkedIn: [linkedin.com/in/fatema-baig-246b46221](https://www.linkedin.com/in/fatema-baig-246b46221)
 
 ---
